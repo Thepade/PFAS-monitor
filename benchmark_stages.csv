@@ -1,0 +1,8 @@
+Stage,Time (sec),Peak Memory (MB)
+Data Loading,3.95,9.8
+Data Processing,2.21,62.4
+ML Training,526.06,91.2
+Anomaly Detection,2.41,7.9
+Visualization,12.99,20.9
+Environmental Analysis,0.00,0.0
+Alert Engine,0.10,5.4
